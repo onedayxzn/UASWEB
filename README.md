@@ -1,10 +1,12 @@
 # UASWEB
-project ini merupakan tugas UAS yang dibuat oleh :
 
+project ini merupakan tugas UAS yang dibuat oleh :
 - Sukma Ramadhan Asri (19552011045)
 - Listyo Adi Pamungkas 
 
 Kelas Pertukaran pelajar STTB dan STIKOM BALI
+
+<hr>
 
 
 ## cara penginstalan
