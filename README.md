@@ -9,7 +9,9 @@
     composer install 
     ```
     atau
-    ```composer update```
+    ```markdown 
+    composer update
+    ```
  - lalu jalankan perintah 
     ```markdown
     php artisan key:generate
